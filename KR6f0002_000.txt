@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大方廣三戒經
+#+DATE: 2015-08-30 20:00:12.860045
+#+PROPERTY: JUAN 0
