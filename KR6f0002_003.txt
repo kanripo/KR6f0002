@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:12.541361
+#+DATE: 2015-08-30 20:00:14.722286
 #+TITLE: 大方廣三戒經
 #+PROPERTY: CBETA_ID T11n0311
 #+PROPERTY: ID KR6f0002
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 311
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6f0002_T_003-0697a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《大方廣三戒經》卷下¶
+《大方廣三戒經》卷下¶
 ¶
 北涼天竺三藏曇無讖譯¶
 
@@ -75,7 +74,7 @@
 
 「迦
 <pb:KR6f0002_T_003-0697c>¶
-葉！猶如有人於夜闇中，以其兩手捫摸虛空，¶
+葉！猶如有人於夜闇中，以其兩手𢵧摸虛空，¶
 搖動口鼻，作如是言：『我弄世間，我弄世間。』¶
 迦葉！於意云何？為弄於誰？」
 
@@ -525,7 +524,7 @@
 　速受已讀誦，¶
 　斯增益智慧，
 　猶水青蓮華。¶
-　速疾受齋戒，
+　速疾受齊戒，
 　多聽受於法，¶
 　斯增益智慧，
 　以斷諸漏結。¶
