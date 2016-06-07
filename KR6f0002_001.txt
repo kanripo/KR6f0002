@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:12.469161
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:49
 #+TITLE: 大方廣三戒經
 #+PROPERTY: CBETA_ID T11n0311
 #+PROPERTY: ID KR6f0002
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 311
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0002_T_001-0687a> 
 #+PROPERTY: JUAN 1
 ¶
-No.311[No.310(1)]¶
-
- 《大方廣三戒經》卷上¶
+No. 311 [No. 310(1)]¶
+《大方廣三戒經》卷上¶
 ¶
 北涼天竺三藏曇無讖譯¶
 
@@ -380,8 +379,7 @@ No.311[No.310(1)]¶
 不淨言，相親近時用為弟子，初以師法和南¶
 禮敬，自是之後當漸遣使；若遣使時，勝達名¶
 字；既達名已，私竊為妻，共道入出。後聞他問：¶
-『是誰所有？云何族親呼為姊妹數數相見？數¶
-相見故則墮非處，互生欲心，漸現欲相。』以言¶
+『是誰所有？云何族親呼為姊妹數數相見？數相見故則墮非處，互生欲心，漸現欲相。』以言¶
 說之，遂為不淨行，習閻羅王法，失於菩提、生¶
 天、涅槃，捨於如來，及捨遠法，亦無僧利。住於
 <pb:KR6f0002_T_001-0690c>¶
